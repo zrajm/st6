@@ -1,0 +1,123 @@
+/* apply a natural box layout model to all elements */
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    /* margin: 0; */
+    /* padding: 0; */
+}
+
+
+
+/* inspired by stackoverflow */
+/* colors mixed using: http://hslpicker.com/ */
+a {
+    /* color: rgb(0, 0, 238); */ /* Chrome default */
+    text-decoration: none;
+    color: rgba(39, 39, 176, 1);
+/* color: #187eaa; */
+}
+a:visited {
+    /*color: rgb(85, 26, 139); */ /* Chrome default */
+    color: rgba(95, 45, 113, 1);
+/* color: #bf2bc5; */
+}
+a:hover {
+    text-decoration: underline;
+    transition: all 0.25s;
+}
+a:active { opacity: .5; }
+
+
+
+/* stylesheet modified from: http://lubutu.com/idea/ivo */
+body {
+  /* border-top: solid #ffd660 5px; */
+  border-top: solid rgba(153, 34, 34, .75) 5px;
+  color: #1f1010;
+  font-family: Georgia, serif;
+  line-height: 1.6em;
+  margin: 0;
+}
+article {
+  margin: auto;
+  padding: 1em 1em 2em;
+  max-width: 33em;
+}
+h1, h2 {
+  font-weight: normal;
+}
+h1 {
+  font-size: 2.4em;
+}
+h2 {
+  /* color: #d93c44; */
+  margin: 1.2em 0 0.4em;
+}
+p {
+  margin: 0.8em 0;
+}
+hr {
+  background-color: #999;
+  border: none;
+  height: 2px;
+  margin-top: 3em;
+}
+/* a { */
+/*   color: inherit; */
+/*   text-decoration: underline; */
+/* } */
+/* strong a { */
+/*   color: #d93c44; */
+/*   font-family: sans-serif; */
+/*   font-style: inherit; */
+/*   text-decoration: inherit; */
+/* } */
+blockquote {
+  border-left: solid #ffd660 5px;
+  margin-left: 0;
+  padding-left: 1em;
+}
+img.right {
+  float: right;
+}
+ol, ul {
+  padding-left: 0;
+}
+ol ol, ol ul, ul ol, ul ul {
+  padding-left: 1.2em;
+}
+td, th {
+  padding: 0 1em;
+  vertical-align: top;
+}
+sup {
+  line-height: 0;
+}
+sup a {
+  color: #d93c44;
+  font-style: inherit;
+  text-decoration: inherit;
+}
+footer {
+  float: right;
+  padding: 1em;
+  text-align: right;
+}
+@media print {
+  body {
+    border-top: none;
+  }
+  article {
+    padding: 0 1em;
+  }
+  h2 {
+    color: inherit;
+  }
+  a {
+    text-decoration: none;
+  }
+  footer {
+    visibility: hidden;
+  }
+}

@@ -1,0 +1,9 @@
+#!/usr/bin/perl -00ln
+# -00ln = paragraph filter mode
+
+if (/\{|zrajm|FIXME/) {
+    s/\d+/$i++/e;
+    print;
+}
+
+#[eof]

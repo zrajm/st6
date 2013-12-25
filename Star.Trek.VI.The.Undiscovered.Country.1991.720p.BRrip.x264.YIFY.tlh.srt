@@ -1,0 +1,483 @@
+﻿0
+00:00:00,000 --> 00:00:01,650
+Klingon added by zrajm of Klingonska Akademien.
+http://klingonska.org/
+
+1
+00:00:02,000 --> 00:03:34,048
+{...} = Klingon, «...» = backtranslation
+(...) = line from script (not in DVD subtitle)
+
+2
+00:06:08,648 --> 00:06:12,074
+(This is an emergency! We have suffered -)
+??? {ghoQaH... [...]}
+«Help us! [...]»
+
+3
+00:22:55,485 --> 00:22:59,029
+{taH pagh taHbe'.}
+«"To be or not to be."»
+
+4
+00:23:19,405 --> 00:23:20,466
+{vavoy.}
+«Father.»
+
+5
+00:25:59,206 --> 00:26:00,306
+{DaH machegh.}
+«We are returning now.»
+
+6
+00:28:25,478 --> 00:28:27,178
+{... yItu'!}
+«Find ...!»
+
+7
+00:28:27,428 --> 00:28:28,928
+??? {bIyevbe'.}
+
+8
+00:28:31,293 --> 00:28:33,044
+We've lost gravity!
+{tlham chu'Ha'lu'!}
+«Gravity has been disabled!»
+
+9
+00:28:33,294 --> 00:28:35,861
+??? {be'bogh ... aah!}
+
+10
+00:28:36,111 --> 00:28:37,738
+??? {cha cheru'}
+
+11
+00:28:37,988 --> 00:28:40,234
+??? {... nuqDaq 'oH}
+
+12
+00:28:41,444 --> 00:28:42,544
+{chay' jura'?}
+«What are your orders?»
+
+13
+00:28:42,794 --> 00:28:43,710
+{nuqDaq bIH?}
+«Where are they?»
+
+14
+00:28:44,660 --> 00:28:47,460
+{chach!}
+«Emergency!»
+FIXME: I hear {«DaH»chu'} (two syllables) on desktop; or {choktch} on laptop
+
+15
+00:28:47,259 --> 00:28:49,268
+We are betrayed!
+{nutojbej!}
+«They have definitely tricked us!»
+
+16
+00:29:09,120 --> 00:29:10,741
+{yotwI'!}
+«Intruder!»
+
+17
+00:29:17,714 --> 00:29:20,425
+Find Chang.
+{cheng'e' DaH Sam!}
+«Find Chang now!»
+
+18
+00:29:25,440 --> 00:29:26,375
+FIXME: I hear something like {HoSghey}
+or {toSghey}
+
+19
+00:29:52,869 --> 00:29:54,069
+{SoH 'Iv jay'?!}
+«Who the hell are you?!»
+FIXME sounds more like {HolI' wo'} or sm.th.
+
+20
+00:29:55,742 --> 00:29:56,842
+{SoH 'Iv jay'?!}
+«Who the hell are you?!»
+FIXME sounds more like {HolI' wo'} or sm.th.
+
+21
+00:29:57,092 --> 00:29:58,848
+{ghoQaH!}
+«Help us!»
+FIXME: sound like «goquah»
+
+22
+00:30:11,857 --> 00:30:13,757
+{qaStaH nuq jay'?}
+«What the hell is happening?»
+
+23
+00:31:11,454 --> 00:31:16,207
+Restoring auxiliary gravity.
+{Duj tlham chu'qa'.}
+«Re-enabling vessel gravity.»
+
+24
+00:33:05,237 --> 00:33:07,370
+{ropyaH yIghuHmoH!}
+«Alert sick bay!»
+
+25
+00:33:07,020 --> 00:33:08,160
+??? {qata'chu'}
+
+26
+00:33:08,410 --> 00:33:10,720
+??? {Dabot yItlI'}
+
+27
+00:33:10,970 --> 00:33:12,852
+??? {'aqtu' -- DaHom -- matlhuS}
+
+28
+00:33:13,802 --> 00:33:14,120
+??? {baqtu'}
+
+29
+00:33:14,370 --> 00:33:15,085
+??? {yIghoS}
+
+30
+00:33:14,970 --> 00:33:16,650
+??? {‹...› yIchaw'}
+
+31
+00:33:21,821 --> 00:33:25,410
+??? {maqtu' -- maqtu' -- maqtu' -- maqtu'}
+
+32
+00:33:25,277 --> 00:33:26,677
+??? {maqtu' yoH}
+
+33
+00:34:11,588 --> 00:34:12,544
+{yIwoH.}
+«Pick him up.»
+
+34
+00:34:12,894 --> 00:34:14,677
+??? {yI‹Hot›be'.}
+«Don't touch him.»
+
+35
+00:36:24,071 --> 00:36:25,408
+{HItlhej!}
+«Come with me!»
+
+36
+00:40:28,502 --> 00:40:31,762
+Attack them now, while we still can!
+{DIHIvlaHtaHvIS DaH DIHIvnIS!}
+
+37
+00:40:32,097 --> 00:40:36,933
+Attack or be slaves in their world.
+{DIHIvbe'chugh qo'chajDaq toy'wI''a' DImoj.}
+
+38
+00:40:38,162 --> 00:40:43,148
+We can take whole by force, what they propose to divide.
+??? {Qo'! pe'vIl DIHIvlaH, ‹QaplaH› tlhob ‹be---HaH›}
+‹QaplaH ‹pla'› pe'vIl› or: ‹Qapla' ghobe' laH'a'›
+
+39
+00:40:43,498 --> 00:40:47,245
+{ghu'maj Dayajbe'law', Sa'.}
+«You don't seem to grasp our situation, General.»
+
+40
+00:40:48,237 --> 00:40:54,314
+War is obsolete, General, as we are in danger of becoming.
+{notlh veS. 'a tugh manotlhchoH je maH.}
+«War is obsolete, but soon we are becoming obsolete too.»
+
+41
+00:40:54,277 --> 00:40:59,540
+Better to die on our feet than live on our knees.
+{QamvIS Hegh qaq law' torvIS yIn qaq puS.}
+
+42
+00:41:00,050 --> 00:41:02,065
+That wasn't what my father wanted.
+{'e' neHbe' vavwI'.}
+
+43
+00:41:59,683 --> 00:42:07,382
+{‹—taH pagh› Qo'noS wa'Daq baHta' ‹DaH wa'noS›}
+«‹—taH pagh› ‹DaH wa'noS› fired intentionally at Chronos One.»
+(Seqram's speculation: ‹baHpa'› Qo'noS Qo'noS wa'Daq baHta' ['entepray])
+
+44
+00:42:12,279 --> 00:42:15,779
+FIXME: Chang continues to speak, overlap with translator
+
+45
+00:46:03,469 --> 00:46:05,720
+Again. Again!
+??? {yI‹tlha'›. yI‹tlha'›!}
+
+46
+00:46:15,114 --> 00:46:16,070
+{ghuy'cha'!}
+«*@$%»
+
+47
+00:48:02,311 --> 00:48:03,626
+??? {'IHqu'.}
+
+48
+00:48:03,561 --> 00:48:04,361
+??? {Qapla'.}
+
+49
+00:48:04,611 --> 00:48:06,111
+FIXME: 2(?) more Klingon lines from the court audience
+
+50
+00:53:15,352 --> 00:53:16,628
+{yIghoStaH!}
+«Keep moving!»
+
+51
+00:53:28,078 --> 00:53:29,258
+{yIghoS!}
+«Move!»
+
+52
+00:53:32,672 --> 00:53:33,760
+{yIHu'!}
+«Get up!»
+
+53
+00:53:34,010 --> 00:53:35,509
+{yIghoStaH!}
+«Keep moving!»
+
+54
+00:54:58,740 --> 00:54:59,776
+{yIghoStaH!}
+«Keep moving!»
+
+55
+00:55:01,426 --> 00:55:02,741
+{yIghoStaH!}
+«Keep moving!»
+
+56
+00:55:04,791 --> 00:55:05,982
+{yIghoStaH!}
+«Keep moving!»
+
+57
+00:55:10,732 --> 00:55:13,002
+{yIghoStaH!}
+«Keep moving!»
+
+58
+00:55:24,007 --> 00:55:26,213
+{yIghoStaH!}
+«Keep moving!»
+
+59
+00:55:26,276 --> 00:55:27,168
+{yIghoS!}
+«Move!»
+
+60
+00:55:27,418 --> 00:55:28,789
+{yIghoStaH!}
+«Keep moving!»
+
+61
+00:55:28,839 --> 00:55:30,018
+{tugh! tugh!}
+«Hurry up! Hurry up!»
+
+62
+00:55:30,368 --> 00:55:31,797
+{yIghoStaH!}
+«Keep moving!»
+
+63
+00:55:32,047 --> 00:55:33,547
+FIXME: more sentences
+
+64
+01:07:31,877 --> 01:07:33,696
+??? {nuq beyIt.}
+
+65
+01:07:34,146 --> 01:07:35,793
+??? {hepqu jay'.}
+
+66
+01:07:38,643 --> 01:07:40,586
+??? {hepqu' jay'.}
+
+67
+01:09:31,109 --> 01:09:32,309
+??? {piju kanta}
+
+68
+01:09:34,359 --> 01:09:35,242
+??? {shendid.}
+
+69
+01:09:35,792 --> 01:09:38,325
+??? {gande. -- gande. -- gande.}
+
+70
+01:09:38,775 --> 01:09:40,488
+??? {toH!}
+
+71
+01:14:02,756 --> 01:14:05,982
+This is listening post Morska.
+{Morski ge.}
+
+72
+01:14:06,960 --> 01:14:09,428
+What ship is that? Over.
+{Dujvets 'oh nuq? rIn.}
+
+73
+01:14:11,278 --> 01:14:14,314
+{Dujvets 'oh nuq? rIn.}
+
+74
+01:14:17,264 --> 01:14:19,797
+{Dujvets 'oh nuq? rIn.}
+
+75
+01:14:21,207 --> 01:14:22,791
+We must respond personally.
+- {Dujvets 'oh nuq? rIn.}
+
+76
+01:14:25,447 --> 01:14:27,946
+{Dujvets 'oh nuq? rIn.}
+
+77
+01:14:28,496 --> 01:14:31,680
+{Dujvets 'oh nuq? rIn.}
+
+78
+01:14:33,820 --> 01:14:37,514
+We am thy freighter Ursva.
+{tongDuj 'urISva' maH.}
+
+79
+01:14:38,408 --> 01:14:44,629
+Six weeks out of Kronos.
+{jav Hogh maH Qo'noSvo'. rIn.}
+
+80
+01:14:44,879 --> 01:14:48,170
+{nuqDaq ghoS? rIn.}
+
+81
+01:14:49,620 --> 01:14:52,501
+{nuqDaq ghoS? rIn.}
+
+82
+01:14:54,651 --> 01:14:57,152
+{nuqDaq ghoS? rIn.}
+
+83
+01:15:02,746 --> 01:15:05,173
+{rura' pente'Daq}
+
+84
+01:15:05,618 --> 01:15:14,634
+We is condemning food, things and supplies.
+{Soj, Doch ‹yuS› vIqIch. rIn.}
+
+85
+01:15:18,198 --> 01:15:21,467
+Don't catch any bugs!
+{ghewmey SuqQo'!}
+
+86
+01:19:49,235 --> 01:19:51,211
+They were beamed aboard a Federation starship.
+{... Qollu'ta'.}
+«The were beamed away.»
+
+87
+01:19:51,763 --> 01:19:53,464
+I could trace...
+{qaghochnISlaH...}
+«I could trace for you...»
+
+88
+01:19:53,714 --> 01:19:54,965
+{narghta'.}
+«They have escaped.»
+
+89
+01:19:59,705 --> 01:20:03,089
+Escaped.
+{narghta'.}
+
+90
+01:20:04,200 --> 01:20:08,970
+Kirk cannot know the location
+of the peace conference.
+{qay'be'. Daq SovlaHbe'taH qIrq.}
+
+91
+01:20:09,664 --> 01:20:12,190
+Are you sure?
+{DaSovbej'a'?}
+
+92
+01:20:12,458 --> 01:20:15,294
+Will you take that chance?
+{bISuDrup'a'?}
+
+93
+01:20:16,244 --> 01:20:17,962
+{DeghwI'.} «Helmsman!»
+- {qaH.} «Sir!»
+
+94
+01:20:17,271 --> 01:20:20,440
+Helmsman, make course to intercept Enterprise.
+{‹He chu'›. So'wI' yIchu'.}
+- {qaH.}
+
+95
+01:33:16,453 --> 01:33:19,834
+{taH pagh taHbe'.}
+
+96
+01:33:38,264 --> 01:33:41,031
+What's she doing?
+{qatlh pa' ghoS?}
+«Why is she going there?»
+
+97
+01:38:57,881 --> 01:38:58,624
+{ghowuv!}
+«Rely on us!»
+
+98
+01:38:58,874 --> 01:39:00,330
+FIXME - 2 lines
+
+99
+01:39:00,401 --> 01:39:01,602
+Protect the Chancellor!
+{Qang yIQan!}
+

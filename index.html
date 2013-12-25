@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <title>Klingon subtitles for Star Trek VI: The Undiscovered Country</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <article class="hentry hyphenate">
+      <header>
+        <h1 class="entry-title">Klingon Subtitles.</h1>
+        <h2 class="entry-summary"><i>Star Trek VI: The Undiscovered
+        Country</i></h2>
+      </header>
+
+      <div class="entry-content">
+
+        <p>In order to compare the transcript
+          of <a href="http://www.imdb.com/title/tt0102975/">ST6</a> that we
+          have, I wanted to compare it directly with the movie, and what better
+          way is there than to turn it into subtitles?
+
+          <ul>
+            <li><a href="Star.Trek.VI.The.Undiscovered.Country.1991.720p.BRrip.x264.YIFY.org.srt">Blu-ray original subtitles</a>
+            <li><a href="Star.Trek.VI.The.Undiscovered.Country.1991.720p.BRrip.x264.YIFY.zrajm.srt">Original + Klingon subtitles</a>
+            <li><a href="Star.Trek.VI.The.Undiscovered.Country.1991.720p.BRrip.x264.YIFY.tlh.srt">Klingon only subtitles</a>
+          </ul>
+
+	<p>These subtitles are all in the <tt>.srt</tt> format, with timings
+          suitable for
+          the <a href="http://yify-torrents.com/movie/Star_Trek_VI_The_Undiscovered_Country_1991">YIFY
+          torrent release of <i>Star Trek VI</i></a>
+          (<a href="magnet:?xt=urn:btih:36ceef787186ccb4f1a7cb68830d78768ccab411&dn=Star+Trek+VI:+The+Undiscovered+Country+(1991)&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.yify-torrents.com/announce">magnet
+          link</a>), though you might be able to get it to work with some other
+          video file by adjusting the subtitle timing. YMMV.
+
+        <h2>Playing the Movie with Subtitles</h2>
+
+        <p>These subtitles should be watchable with just about any media
+          player, on any operating system. Just make sure that the subtitle you
+          want has the same file name as your movie file (except for
+          the <tt>.srt</tt> ending) and resides in the same directory, so that
+          your player can find it.
+
+        <h2>What was Changed</h2>
+
+        <p>The English subtitles are those included in the YIFY torrent release
+          (which I assume to be identical to the Blu-ray subtitles). I
+          copy/pasted the
+          <b lang=tlh>tlhIngan Hol</b> from the transcript of ST6 that has
+          occasionally been posted and (discussed on)
+          the <a href="http://diswww.mit.edu/charon.MIT.EDU/ja'chuq/"
+          lang=tlh>tlhingan-hol</a> mailing list. In the cases where Klingon
+          lines are subtitled in English, the Klingon have been added
+          underneath. (Subtitle timings were also adjusted, as the timing for
+          the Klingon lines were generally quite a bit off – my guess is that
+          whoever subtitled the movie was not very fluent in Klingon.) :)
+
+        <p>The subtitle work was done using <i>gnome-subtitles</i> on
+          a <i>Precise Pangolin</i> Ubuntu GNU/Linux system.
+
+        <p>I wrote a small <a href="extract-tlh">Perl script</a> to extract the
+          only Klingon subtitles. (It outputs a valid <tt>.srt</tt> file, and
+          is used to extract the “Klingon only subtitles” from the larger
+          subtitle file.)
+
+        <h2>Feedback</h2>
+
+        <p>Any feedback (on the Klingon parts) would be greatly appreciated.
+          Send it to <a href="mailto:st6@zrajm.org">st6@zrajm.org</a> (or my
+          personal email address with “ST6” added to the subject line).
+
+      </div>
+
+      <footer>
+        <p class="byline author vcard">Written by <a href="mailto:zrajm@zrajm.org" class=fn>zrajm</a>
+	  <br><time class=published datetime="2013-12-25 01:00:31+0100">December 25, 2013</time>
+          <br><i style="opacity: .5">
+            <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">Creative Commons BY-SA</a>
+          </i>
+      </footer>
+    </article>
+    <script src="hyphenator-4.2.0.js"></script>
+    <script>
+      Hyphenator.config({
+        // don't scroll up on page reload
+        intermediatestate : 'visible',
+        //displaytogglebox : true,
+        orphancontrol: 2,
+        useCSS3hyphenation: true,
+        minwordlength: 4,
+        // suppress error caused by 'tlh' being unknown language
+        onerrorhandler: function () {},
+        onhyphenationdonecallback: function () {
+          // justify hypenated text (if Javascript is enabled)
+          document.styleSheets[0].insertRule(
+            '.hyphenate{text-align:justify;}', 0);
+        },
+        //for debugging
+        //urlhyphenchar: '|',
+        //hyphenchar: '|',
+      });
+      Hyphenator.addExceptions('en','sub-title, sub-titles');
+      Hyphenator.run();
+    </script>
+  </body>
+</html>
